@@ -17,6 +17,10 @@ ros2 run bar_robot bar_robot
 
 The node currently selects robot ID `dsr01` and model `m0609`. It contains fixed joint and Cartesian waypoints and, when run, calls `washUsedCup()` by default. Review those settings and the workcell waypoints for your robot before running it.
 
+## Project report
+
+[View the Drap team's cocktail manufacturing and serving project report (PDF)](docs/drap-project-report.pdf).
+
 ## License
 
 This project is licensed under the MIT License. See [LICENSE](LICENSE).
